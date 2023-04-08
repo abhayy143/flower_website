@@ -6,7 +6,7 @@ This repository contains a basic website built with HTML and CSS that provides i
 
 ## Installation 👨‍💻 
 
-* Clone the repository: git clone https://github.com/https://github.com/abhayy143/flower_website.git
+* Clone the repository: git clone https://github.com/abhayy143/flower_website.git
 
 * Open the index.html file in your preferred browser.
 ## Usage 💻
